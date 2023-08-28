@@ -1,9 +1,9 @@
 //              Connecting Blynk App Information 
 //              These info needs to held at first 
 //--------------------------------------------------------------------------//
-#define BLYNK_TEMPLATE_ID           "TMPL6aeU6PxxH"
-#define BLYNK_TEMPLATE_NAME         "medical readings"
-#define BLYNK_AUTH_TOKEN            "qxa4YGHbWrjgC8eM_2i2fT4Tjuzxwdtj"
+#define BLYNK_TEMPLATE_ID           "--------------------"
+#define BLYNK_TEMPLATE_NAME         "---------------------------"
+#define BLYNK_AUTH_TOKEN            "-------------------------------------"
 
 #define BLYNK_PRINT Serial
 
@@ -25,8 +25,8 @@
 //    Wifi Info of which network we are using 
 //           your will be different
 //-------------------------------------------------------------------------//
-char ssid[] = "Sss";
-char pass[] = "KiChaoBro**";
+char ssid[] = "your wifi network name";
+char pass[] = "that network password";
 
 //    Our Mega is in Serial
 //    wifi is in serial1
