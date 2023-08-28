@@ -30,7 +30,7 @@ We use This Board in our Project Cause this Board included ESP8266 and Wifi
 ![Mega +WiFi R3](https://github.com/saaif44/Basic-Medical-via-Arduino-Mega2560-r3-Blynk/assets/41290426/e02a61f0-104e-49de-9d0f-aa8cd052932b)
 
 There is Two file of code 
-- MedToBlynk.ino code is for the board we used. also if the board is connect with esp8266 with wifi code need to slight change according to the hardware needs
+- MedToBlynkAndLCD.ino code is for the board we used. also if the board is connect with esp8266 with wifi code need to slight change according to the hardware needs
 - StandAloneLCDmedical.ino is for withour wifi just as the   
 
 
