@@ -23,7 +23,8 @@ This repository contains the code and resources for a Medical Information Readin
 15. Libraries are Wire.h,MAX30105.h,spo2_algorithm.h,LiquidCrystal_I2C.h,ESP8266_Lib.h,BlynkSimpleShieldEsp8266.h
 
 This is our Board Circuit Diagram but we used different Arduino Board 
-![StandAloneLCDmedical Image](https://github.com/saaif44/Basic-Medical-via-Arduino-Mega2560-r3-Blynk/assets/41290426/00238b37-a102-4420-a4d3-29e98570f669)
+
+![StandAloneLCDmedical Image](https://github.com/saaif44/Basic-Medical-via-Arduino-Mega2560-r3-Blynk/assets/41290426/d52dec39-0772-4728-a902-da0c7900c636)
 
 We use This Board in our Project Cause this Board included ESP8266 and Wifi
 ![Mega +WiFi R3](https://github.com/saaif44/Basic-Medical-via-Arduino-Mega2560-r3-Blynk/assets/41290426/e02a61f0-104e-49de-9d0f-aa8cd052932b)
