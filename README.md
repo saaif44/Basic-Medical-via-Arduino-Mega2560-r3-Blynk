@@ -13,14 +13,14 @@ This repository contains the code and resources for a Medical Information Readin
 4. Integration with LEDs for status indication and debugging.
 5. Easy-to-use Blynk app interface for healthcare professionals and patients.
 6. Hardware Requirements
-7. Arduino Mega board
-8. ESP8266 module (e.g., Wemos Mega + WiFi R3 Module)
-9. MAX30102 Pulse Oximeter and Heart-Rate Sensor
+7. Arduino Mega board Mega + ESP8266 WiFi R3 Module
+9. MAX30102 ppg sensor
 10. LEDs and resistors (for status indication - optional)
 11. Wi-Fi network for internet connectivity
 12. Software Requirements
 13. Arduino IDE
 14. Required libraries for the MAX30102 sensor, ESP8266 WiFi module, and Blynk app integration.
+15. Libraries are Wire.h,MAX30105.h,spo2_algorithm.h,LiquidCrystal_I2C.h,ESP8266_Lib.h,BlynkSimpleShieldEsp8266.h
 
 This is our Board Circuit Diagram but we used different Arduino Board 
 ![StandAloneLCDmedical Image](https://github.com/saaif44/Basic-Medical-via-Arduino-Mega2560-r3-Blynk/assets/41290426/00238b37-a102-4420-a4d3-29e98570f669)
