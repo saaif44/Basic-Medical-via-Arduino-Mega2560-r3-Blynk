@@ -33,7 +33,7 @@ There is Two file of code
 - MedToBlynkAndLCD.ino code is for the board we used. also if the board is connect with esp8266 with wifi code need to slight change according to the hardware needs
 - StandAloneLCDmedical.ino is for withour wifi just as the   
 
-##!!There is a slight complication with the board that can be fixed 
+##There is a slight complication with the board that can be fixed 
 The Esp8266 EEPROM get junked and make garbage tx/rx communication
 If it gets junked then it needs to factory flash to resolve the issue
 
